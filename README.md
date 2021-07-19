@@ -1,16 +1,16 @@
 # Hey! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">
 
-
+<br>
 
 
 ### I am a pre final year BTech (CSE) student solving a lot of advanced problems daily and working on web development technologies.
 
 
-
+<br>
 
 
  
-- 🔭 I’m currently working ***movie recommendation engine*** built using ***AJAX*** and ***Flask***.
+- 🔭 I’m currently working on ***movie recommendation engine*** built using ***AJAX*** and ***Flask***.
 
 
 - 🌱 I’m practicing ***Advanced Data Structures and Algorithms***.
@@ -22,8 +22,9 @@
 - 💬 Ask me about ***Data Structures and Algorithms***.
 
 
-- 📫 How to reach me: linkedin - https://www.linkedin.com/in/anirudh-panwar-1b014a169/
+- <img height="30" src="https://user-images.githubusercontent.com/42828778/126117110-b9c383f8-950b-4d29-a8c2-4ca5390a4e4a.png" title="linkedin" style="max-width:100%;"> - https://www.linkedin.com/in/anirudh-panwar-1b014a169/
 
+<br>
 
 ### Skills:
 
