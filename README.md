@@ -1,6 +1,5 @@
 # Hey! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">
 
-<br>
 
 
 ### I am a pre final year BTech (CSE) student solving a lot of advanced problems daily and working on web development technologies.
