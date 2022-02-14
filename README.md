@@ -9,13 +9,13 @@
 
 
  
-- 🔭 I’m currently working on ***movie recommendation engine*** built using ***AJAX*** and ***Flask***.
+- 🔭 I’m currently working on **Reactjs** projects.
 
 
 - 🌱 I’m practicing ***Advanced Data Structures and Algorithms***.
 
 
-- 👯 I have decent knowledge of ***HTML, CSS, JavaScript, Python, Flask, AJAX***.
+- 👯 I have decent knowledge of ***JavaScript, Reactjs, HTML, CSS, C++, Java, Python, Flask, AJAX***.
 
 
 - 💬 Ask me about ***Data Structures and Algorithms***.
