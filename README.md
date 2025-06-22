@@ -13,6 +13,7 @@
 <li>👨‍💼 Software Engineer</li>
 <li>📄 <strong>Proficient in full stack development but primarily a backend developer</strong>.</li>
 <li>💻 Interested in artificial intelligence and machine learning.</li>
+<li>💪 Outside of coding, I enjoy hitting the gym.</li>
 <li>🗺️ Located in Bengaluru, India.</li>
 </ul>
 
