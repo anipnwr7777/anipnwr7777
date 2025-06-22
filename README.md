@@ -17,11 +17,11 @@
 <li>🗺️ Located in Bengaluru, India.</li>
 </ul>
 
-## Skills
+### Skills
 <img src="https://camo.githubusercontent.com/3d34f37e09d6ee0cd8b54d1c71f444dd0ff94471bdd325fb526e1867629e4345/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c6a732c74732c70792c6e6573746a732c6d6f6e676f64622c706f7374677265732c646f636b65722c626173682c6c696e75782c6177732c6769746c6162267468656d653d6c69676874" alt="skills" data-canonical-src="https://skillicons.dev/icons?i=nodejs,js,ts,py,nestjs,mongodb,postgres,docker,bash,linux,aws,kubernetes&amp;theme=light" style="max-width: 100%;">
 
-<h2 class="heading-element" dir="auto">GitHub Statistics</h2>
 
+### GitHub Statistics
 <p align="start">
   <a href="https://github.com/anipnwr7777">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anipnwr7777&theme=onedark&show_icons=true" />
